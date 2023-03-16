@@ -1,0 +1,17 @@
+.banner{
+    background-color:PowderBlue;
+    width:100%;
+    height:200px;
+    margin-bottom:20px;
+
+}
+
+.banner-text{
+    top:65px;
+    left:47%;
+    position:absolute;
+    transform:transform;
+    color:purple;
+
+
+}
